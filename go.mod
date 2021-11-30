@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/hashicorp/raft v1.3.2
-	github.com/kelseyhightower/envconfig v1.4.0
+	github.com/spf13/cobra v1.2.1
 )
 
 require (
@@ -12,6 +12,7 @@ require (
 	github.com/hashicorp/go-hclog v0.9.1 // indirect
 	github.com/hashicorp/go-immutable-radix v1.0.0 // indirect
 	github.com/hashicorp/go-msgpack v0.5.5 // indirect
-	github.com/hashicorp/golang-lru v0.5.0 // indirect
-	github.com/stretchr/testify v1.7.0 // indirect
+	github.com/hashicorp/golang-lru v0.5.1 // indirect
+	github.com/inconshreveable/mousetrap v1.0.0 // indirect
+	github.com/spf13/pflag v1.0.5 // indirect
 )
